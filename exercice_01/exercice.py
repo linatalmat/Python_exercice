@@ -17,8 +17,3 @@ print(total_ttc)
 # Afficher une phrase avec une f-string
 print(f"Le total TTC pour {quantite} {produit} est de {total_ttc:.2f} €")
 
-
-
-
- 
-
