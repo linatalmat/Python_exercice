@@ -32,7 +32,6 @@ moyenne_notes = moyenne(notes_valides)
 # Trouver la mention
 resultat_mention = mention(moyenne_notes)
 
-
 # Afficher les résultats
 print(f"Notes ignorées : {notes_invalides}")
 print(f"Moyenne : {moyenne_notes:.2f}")
