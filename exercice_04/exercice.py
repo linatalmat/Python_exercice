@@ -38,6 +38,7 @@ for vente in ventes:
         meilleur_ca = ca
         meilleur_produit = vente["produit"]
 
+
 print(f"Le produit qui rapporte le plus est : {meilleur_produit}")
 print(f"Il rapporte : {meilleur_ca:.2f} €")
 

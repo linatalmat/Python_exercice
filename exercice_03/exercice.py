@@ -28,6 +28,7 @@ temperateur = [ 12.5 , 14 , 9.5 , 17 , 21 , 19.5 , 11]
 
 fahrenheit = []
 
+
 for c in temperateur : 
     f = c*9/5+32
     fahrenheit.append(f)
