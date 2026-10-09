@@ -12,6 +12,7 @@ print(total_ht)
 # Calculer le total TTC
 total_ttc = total_ht * (1 + taux_tva)
 
+
 print(total_ttc)
 
 # Afficher une phrase avec une f-string
